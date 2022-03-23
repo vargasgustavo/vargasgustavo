@@ -1,6 +1,6 @@
 # Olá meu nome é <strong><i>Gustavo Vargas</i></strong>
-### Tenho 18 anos e sou estudante de programação
-### Gosto muito de front-end, mas ainda estou apto para aprender back-end sem chorar
+#### Tenho 18 anos e sou estudante de programação
+#### Gosto muito de front-end, mas ainda estou apto para aprender back-end sem chorar
 <br>
 <hr>
 
