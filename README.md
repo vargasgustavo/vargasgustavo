@@ -19,6 +19,9 @@
 
 ## Linguagens que eu odeio >
 
+<br>
+<br>
+
 <section>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="75px">
