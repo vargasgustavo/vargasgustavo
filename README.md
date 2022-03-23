@@ -6,4 +6,4 @@
 
 ## Tecnologias que eu uso ou já usei --->
 
-<img src="">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
