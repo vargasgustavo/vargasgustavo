@@ -4,7 +4,7 @@
 <br>
 <hr>
 
-## Tecnologias que eu uso ou já usei --->
+## Linguagens que eu gosto >
 
 <br>
 <br>
@@ -14,10 +14,17 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="75px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="75px">
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="75px">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75px">
 <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="75px">
 </section>
 
+## Linguagens que eu odeio >
+
+<section>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75px">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="75px">
+<img src="https://www.pngrepo.com/png/280943/512/hashtag.png" width="75px">
+</section>
+  
 <br>
 <br>
 <br>
