@@ -17,6 +17,8 @@
 <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="75px">
 </section>
 
+<br>
+
 ## Linguagens que eu odeio >
 
 <br>
