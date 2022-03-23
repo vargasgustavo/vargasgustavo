@@ -19,7 +19,7 @@
 
 <br>
 
-## Linguagens que eu odeio >
+## Linguagens que eu menos uso >
 
 <br>
 <br>
