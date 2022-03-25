@@ -31,3 +31,8 @@
 <a href="https://discord.gg/dMweaNs6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCy3ayeXvWHL1IV23ZTMHzBA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ><target="_blank"/a>
 <div>
+
+  ![Snake animation](https://github.com/vargasgustavo/vargasgustavo/blob/output/github-contribution-grid-snake.sgv)
+  
+  
+  
