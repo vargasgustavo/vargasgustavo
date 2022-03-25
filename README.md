@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargasgustavo&show_icons=true&theme=tokyonight)
 
-## Linguagens que eu gosto >
-
 <br>
 
 <section>
@@ -15,15 +13,6 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px">
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="40px">
 <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="40px">
-</section>
-
-<br>
-
-## Linguagens que eu menos uso >
-
-<br>
-
-<section>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
 <img src="https://www.pngrepo.com/png/280943/512/hashtag.png" width="40px">
