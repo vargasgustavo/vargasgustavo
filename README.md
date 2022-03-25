@@ -2,7 +2,8 @@
 #### Tenho 18 anos e sou estudante de programação
 #### Gosto muito de front-end, mas ainda estou apto para aprender back-end sem chorar
 <br>
-<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargasgustavo&show_icons=true&theme=tokyonight)
 
 ## Linguagens que eu gosto >
 
@@ -27,10 +28,3 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
 <img src="https://www.pngrepo.com/png/280943/512/hashtag.png" width="40px">
 </section>
-  
-<br>
-<br>
-<br>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargasgustavo&show_icons=true&theme=tokyonight)
