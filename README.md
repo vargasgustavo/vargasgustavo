@@ -9,7 +9,7 @@
 <br>
 
 <section>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="25px">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30px">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="25px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25px">
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="25px">
