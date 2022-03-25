@@ -7,7 +7,7 @@
 
 <br>
 
-<section>
+<div style="display: inline_block"><br>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40px">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
 <img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px">
@@ -16,5 +16,7 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40px">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
 <img align="center" src="https://www.pngrepo.com/png/280943/512/hashtag.png" width="40px">
-<img align="right" src="https://discord.com/channels/853989731263447070/853989731263447073/956966022311714916">
-</section>
+<img align="right" src="https://i.picasion.com/pic92/127374154b7e8f434a7193d528e77170.gif" width="150px" height="150px">
+</div>
+
+##
