@@ -3,8 +3,11 @@
 #### Gosto muito de front-end, mas ainda estou apto para aprender back-end sem chorar
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargasgustavo&show_icons=true&theme=tokyonight)
-
+<div> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vargasgustavo&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargasgustavo&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
+                                                                                                                                                     
 <br>
 
 <div style="display: inline_block"><br>
