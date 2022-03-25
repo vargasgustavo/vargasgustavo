@@ -32,6 +32,4 @@
 <a href="https://www.youtube.com/channel/UCy3ayeXvWHL1IV23ZTMHzBA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ><target="_blank"/a>
 <div>
 
-<br><br>
-
 ![Snake animation](https://github.com/vargasgustavo/vargasgustavo/blob/output/github-contribution-grid-snake.svg)
