@@ -1,5 +1,4 @@
-# Olá meu nome é <strong><i>Gustavo Vargas</i></strong>
-#### Gosto muito de front-end, mas ainda estou apto para aprender back-end sem chorar
+# Olá, me chamo <strong><i>Gustavo Vargas</i></strong>
 <br>
 
 <div> 
