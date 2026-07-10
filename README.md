@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Gustavo!
+# 👋 Olá, sou Gustavo!
 
 ### 💻 Desenvolvedor Full Stack — Sites · Apps Desktop · Apps Mobile
 
