@@ -22,9 +22,6 @@
 <a href="https://instagram.com/gustavo_neumannv" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://discord.gg/dMweaNs6" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=vargasgustavo&color=4f9cff&style=flat-square&label=visitas" alt="Contador de visitas">
 
